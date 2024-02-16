@@ -1,0 +1,2 @@
+r_type,t_type,eta_mean,gamma_mean,perc_recomm_found_mean,eta_obs_mean,eta_obs_individualized_mean,eta_obs_refits_batch0_mean_mean,gamma_obs_mean,intv-cost_mean,eta_std,gamma_std,perc_recomm_found_std,eta_obs_std,eta_obs_individualized_std,eta_obs_refits_batch0_mean_std,gamma_obs_std,intv-cost_std
+individualized,counterfactual,0.75,0.75,1.0,1.0,,0.9856666525204977,0.0016666666294137638,0.5435,0.0,0.0,0.0,0.0,,0.013051160937631468,0.002886751281424208,0.017755280904564703

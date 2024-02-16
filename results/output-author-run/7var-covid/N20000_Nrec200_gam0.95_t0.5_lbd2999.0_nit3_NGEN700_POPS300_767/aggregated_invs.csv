@@ -1,0 +1,2 @@
+r_type,t_type,pop_density_mean,flu_shot_mean,covid_shots_mean,bmi_diff_mean,appetite_loss_mean,fever_mean,fatigue_mean,causes_mean,non-causes_mean,pop_density_std,flu_shot_std,covid_shots_std,bmi_diff_std,appetite_loss_std,fever_std,fatigue_std,causes_std,non-causes_std
+individualized,counterfactual,0.0016691792294807372,0.0,0.0,0.0,0.5401122278056951,0.0,0.0,0.0016691792294807372,0.5401122278056951,0.002022911637710813,0.0,0.0,0.0005025125628140704,0.031209686032435638,0.0,0.0,0.0017555899267317477,0.031209686032435638

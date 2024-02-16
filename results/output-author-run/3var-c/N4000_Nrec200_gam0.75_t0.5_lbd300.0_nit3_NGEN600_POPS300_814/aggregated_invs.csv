@@ -1,0 +1,2 @@
+r_type,t_type,x1_mean,x2_mean,x3_mean,causes_mean,non-causes_mean,x1_std,x2_std,x3_std,causes_std,non-causes_std
+individualized,counterfactual,0.507,0.3441666666666667,2.2119999999999997,3.063166666666666,0.0,0.6616623005733362,0.1605244010527164,0.6921862104954124,0.6327450776840012,0.0
